@@ -1,3 +1,7 @@
+# Universidad del Valle de Guatemala
+# Teoria de Probabilidades
+# Laboratorio #2 - Problema #3
+
 from itertools import *
 
 n = 7
